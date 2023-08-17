@@ -3,7 +3,7 @@
 - 💼 hoje trabalho como autônoma de doces
 - 📚 atualmente estou no ensino médio integrado ao Técnico de Desenvolvimento de Sistemas
 - 💻 aprendendo JavaScript, MySQL, Java, HTML e python 
-- 💞️ pronoun: ela/dela
+- 💃 pronoun: ela/dela
 
   
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Diuliene\&show_icons=true\&theme=radical#gh-radical-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
