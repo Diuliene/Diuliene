@@ -1,8 +1,8 @@
-6## Olá!! Eu sou a Diuliene Miranda Ferraz 
+## Olá!! Eu sou a Diuliene Miranda Ferraz 
 
 - 💼 hoje trabalho como autônoma de doces
 - 📚 atualmente estou no ensino médio integrado ao Técnico de Desenvolvimento de Sistemas
-- 💻 aprendendo JavaScript, MySQL, Java, HTML
+- 💻 aprendendo JavaScript, MySQL, Java, HTML e python 
 - 💞️ pronoun: ela/dela
 
   
@@ -15,8 +15,6 @@
   
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diuliene-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href = "diulieneferraz@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/diuliene-miranda-ferraz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="center" alt="Diuliene-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <a href="https://www.linkedin.com/in/diuliene-miranda-ferraz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
